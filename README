@@ -1,0 +1,6 @@
+PHP Gowalla 2.0
+
+This is a PHP wrapper class for the Gowalla API.
+It has oAuth support.
+
+For questions contact me at lievens.lester@gmail.com
